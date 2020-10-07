@@ -1,7 +1,8 @@
 **#VUE-ROUTER**
 
 **Previews**
-<img src="./src/assets/pc.png" height="400px"> || <img src="./src/assets/phone.jpeg" height="500px">
+
+<img src="./src/assets/pc.png" height="400px"> <img src="./src/assets/phone.jpeg" height="500px">
 
 **Source Code**
 ![](src/assets/Screenshot(136).png)
