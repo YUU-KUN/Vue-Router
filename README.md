@@ -1,6 +1,6 @@
 **#VUE-ROUTER**
 
-**#PREVIEWS**
+**#PREVIEW (PC & MOBILE)**
 
 <img src="./src/assets/pc.png" height="400px">     <img src="./src/assets/phone.jpeg" height="400px">
 
