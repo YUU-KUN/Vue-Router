@@ -1,4 +1,5 @@
 <template>
+<div class="bg">
   <div id="app">
     <ul class="nav" style="background-color: #2abd7a">
       <li class="nav-item"><router-link class="nav-link" to="/">Home</router-link></li>
@@ -7,8 +8,9 @@
       <li class="nav-item"><router-link class="nav-link" to="/notFound">Not Found</router-link></li>
     </ul>
 
-    <router-view></router-view>
+    <router-view class="content"></router-view>
   </div>
+</div>
 </template>
 
 <style>
@@ -17,7 +19,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: white;
   /* margin-top: 60px; */
 }
 ul {

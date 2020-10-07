@@ -1,7 +1,7 @@
 <template>
     <div class="container"><br>
         <h1>Not Found</h1>
-        Ini Halaman Not Found
+        Halaman ini tidak ditemukan!
     </div>
 </template>
 
