@@ -1,18 +1,10 @@
 <template>
   <div id="app">
     <ul class="nav" style="background-color: #2abd7a">
-      <li class="nav-item">
-        <router-link class="nav-link" to="/">Home</router-link>
-      </li>
-      <li class="nav-item">
-        <router-link class="nav-link" to="/about">About</router-link>
-      </li>
-      <li class="nav-item">
-        <router-link class="nav-link" to="/contact">Contact</router-link>
-      </li>
-      <li class="nav-item">
-        <router-link class="nav-link" to="/notFound">Not Found</router-link>
-      </li>
+      <li class="nav-item"><router-link class="nav-link" to="/">Home</router-link></li>
+      <li class="nav-item"><router-link class="nav-link" to="/about">About</router-link></li>
+      <li class="nav-item"><router-link class="nav-link" to="/contact">Contact</router-link></li>
+      <li class="nav-item"><router-link class="nav-link" to="/notFound">Not Found</router-link></li>
     </ul>
 
     <router-view></router-view>
