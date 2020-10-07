@@ -2,7 +2,7 @@
 
 **#PREVIEW (PC & MOBILE)**
 
-<img src="./src/assets/pc.png" height="250px">  <img src="./src/assets/phone.jpeg" height="250px">
+<img src="./src/assets/pc.png" height="350px">  <img src="./src/assets/phone.jpeg" height="350px">
 
 <br>
 <br>
